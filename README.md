@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavithrapotty
-- 👀 I’m interested in psychology and programming
+- 👀 I’m interested in electronics designing and psychology
 - 🌱 I’m currently learning electronics and communication engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
